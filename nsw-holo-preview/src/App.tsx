@@ -476,12 +476,12 @@ function DigitalLicence() {
               </section>
 
               <section className="text-center mt-4 mb-5">
-  <div className="text-center mt-4 mb-5">
-    <h2 className="text-2xl font-semibold text-blue-900">
-      Trevor William <span className="font-bold">LONG</span>
-    </h2>
-  </div>
-</section>
+                <div className="text-center mt-4 mb-5">
+                  <h2 className="text-2xl font-semibold text-blue-900">
+                    Trevor William <span className="font-bold">LONG</span>
+                    </h2>
+                    </div>
+                    </section>
 
               <section className="relative rounded-lg overflow-hidden p-3">
                 <div className="relative z-10 flex justify-between">
